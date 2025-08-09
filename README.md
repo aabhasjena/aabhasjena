@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhasjena&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://www.linkedin.com/in/aabhas-jena-891112220/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://YOUR-PORTFOLIO-LINK)
 
 ---
